@@ -1,0 +1,2 @@
+Prefix plugins/ASV2Taxon/example
+Plugin ASV2Taxon inputfile mapping.csv outputfile taxa.csv
